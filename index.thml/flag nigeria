@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<html>
+<head>
+      <title>
+      <nav>NIGERIA FLAG</nav>
+</title>
+<style>
+
+.green {
+      background-color: green;
+      height: 600px;
+      width: 900px;
+}
+
+.white{
+      width: 300px;
+      height: 600px;
+    background-color: white;
+    position: relative;
+    top: auto;
+    left: 32.5%;
+}
+p{
+      text-align: center;
+  font-family: "Chivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold; 
+  font-style: normal;
+  font-size: 3rem;
+  position: relative;
+  top: 45%
+}
+
+
+
+</style>
+</head>
+
+<body>
+      <div class="green">
+            <div class="white">
+                  <p>NIGERIA</p>
+                  
+            </div>  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+&copy; 2024 &mdash;Josh King</p>
+
+</body>
+
+</html>
